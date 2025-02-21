@@ -37,7 +37,7 @@ body:
       required: false
 
   - type: dropdown
-    id: bug_component
+    id: bug_target
     attributes:
       label: Component
       description: Which part of LUE was affected?
