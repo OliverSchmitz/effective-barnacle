@@ -5,7 +5,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Documentation
     url: https://lue.computationalgeography.org/doc/index.html
-    about: On the corresponding documentation page use GitHub - open issue located on top of the page
+    about: Please use GitHub - open issue located on top of each documentation page
 
   - name: Communty chat
     url: https://matrix.to/#/#lue:matrix.org
